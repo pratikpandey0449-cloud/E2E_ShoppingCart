@@ -79,7 +79,7 @@ mvn -Dheadless=true clean test
 ### Run only the Cucumber feature in headless mode
 
 ```bash
-mvn -Dheadless=true -Dtest=runners.CucumberTestRunner test
+mvn -Dheadless=true -Dtest=runners.CucumberTestRunner testing
 ```
 
 ## Notes
