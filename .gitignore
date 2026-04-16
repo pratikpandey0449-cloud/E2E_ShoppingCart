@@ -1,0 +1,17 @@
+# Build output
+target/
+allure-results/
+
+# Local tooling
+.tools/
+apache-maven-3.9.9/
+apache-maven-3.9.9-bin.zip
+node_modules/
+package.json
+package-lock.json
+
+# Editor files
+.vscode/
+
+# Local secrets
+src/test/resources/config.properties
